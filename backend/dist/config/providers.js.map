@@ -1,0 +1,1 @@
+{"version":3,"file":"providers.js","sourceRoot":"","sources":["../../src/config/providers.ts"],"names":[],"mappings":";;;AAAa,QAAA,SAAS,GAAG;IACvB,YAAY,EAAE;QACZ,MAAM,EAAE,kBAAkB;QAC1B,cAAc,EAAE,IAAI,CAAC,EAAE,CAAC,IAAI,CAAC,cAAc,CAAC,CAAC,WAAW,CAAC;KAC1D;CACF,CAAC"}
